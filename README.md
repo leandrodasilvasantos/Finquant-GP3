@@ -1,1 +1,1 @@
-# Finquant-GP3
+# Finquant-GP3 - FX Trading
