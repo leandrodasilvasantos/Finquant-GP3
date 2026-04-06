@@ -1,1 +1,1 @@
-# Finquant-GP3 - FX Trading
+# FinQuant - FX Trading
